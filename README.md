@@ -100,11 +100,11 @@ I love playing soccer, working out at the gym, playing video games, and hanging 
 ## Some other projects in Azure
 
 ### Databases course
-<a href="https://dev.azure.com/tec-bases-IS2021-KBJ/Tarea%20Corta%201">![tarea](https://img.shields.io/badge/RestauranTEC-pink?style=for-the-badge&logo=codechef)</a>
+<a href="https://dev.azure.com/tec-bases-IS2021-KBJ/Tarea%20Corta%201">![tarea](https://img.shields.io/badge/RestauranTEC-pink?style=for-the-badge&logo=codechef&logoColor=black)</a>
 
-<a href="https://dev.azure.com/tec-bases-IS2021-KBJ/Tarea%20Corta%201">![tarea](https://img.shields.io/badge/SmartHomeTEC-blue?style=for-the-badge&logo=codeship)</a>
+<a href="https://dev.azure.com/tec-bases-IS2021-KBJ/Tarea%20Corta%201">![tarea](https://img.shields.io/badge/SmartHomeTEC-blue?style=for-the-badge&logo=kasasmart&logoColor=black)</a>
 
-<a href="https://dev.azure.com/tec-bases-IS2021-KBJ/Proyecto%20II">![proyecto2](https://img.shields.io/badge/GymTEC-white?style=for-the-badge&logo=codeship)</a>
+<a href="https://dev.azure.com/tec-bases-IS2021-KBJ/Proyecto%20II">![proyecto2](https://img.shields.io/badge/GymTEC-white?style=for-the-badge&logo=openaigym&logoColor=black)</a>
 
 ### Software specification and design course
 <a href="https://dev.azure.com/CRUD-Masters/XBattlePong">![xbattlepong](https://img.shields.io/badge/XBattlePong-black?style=for-the-badge&logo=codeship)</a>
