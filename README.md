@@ -38,7 +38,6 @@ I love playing soccer, working out at the gym, playing video games, and hanging 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![nodedotjs](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![materialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![mui](https://img.shields.io/badge/mui-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -74,6 +73,17 @@ I love playing soccer, working out at the gym, playing video games, and hanging 
 ![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![azuredevops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
+### Assembly
+
+![x86](https://img.shields.io/badge/Assembly_x86-black?style=for-the-badge&logo=assemblyscript)
+![ARM](https://img.shields.io/badge/Assembly_ARM-white?style=for-the-badge&logo=ARM)
+
+### HDL
+
+![SysVerilog](https://img.shields.io/badge/System_Verilog-gray?style=for-the-badge&logo=velog&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-darkblue?style=for-the-badge&logo=velog&logoColor=white)
+
+
 ### Others
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -81,7 +91,7 @@ I love playing soccer, working out at the gym, playing video games, and hanging 
 ![openai](https://img.shields.io/badge/open_ai_api-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter)
+![jupyter](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter)
 ![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 
@@ -90,16 +100,14 @@ I love playing soccer, working out at the gym, playing video games, and hanging 
 ## Some other projects in Azure
 
 ### Databases course
-<a href="https://dev.azure.com/tec-bases-IS2021-KBJ/Tarea%20Corta%201">![tarea](https://img.shields.io/badge/RestauranTEC-pink?logo=Azure)</a>
+<a href="https://dev.azure.com/tec-bases-IS2021-KBJ/Tarea%20Corta%201">![tarea](https://img.shields.io/badge/RestauranTEC-pink?style=for-the-badge&logo=codechef)</a>
 
-<a href="https://dev.azure.com/tec-bases-IS2021-KBJ/Tarea%20Corta%201">![tarea](https://img.shields.io/badge/SmartHomeTEC-blue?logo=Azure)</a>
+<a href="https://dev.azure.com/tec-bases-IS2021-KBJ/Tarea%20Corta%201">![tarea](https://img.shields.io/badge/SmartHomeTEC-blue?style=for-the-badge&logo=codeship)</a>
 
-<a href="https://dev.azure.com/tec-bases-IS2021-KBJ/Proyecto%20II">![proyecto2](https://img.shields.io/badge/GymTEC-white?logo=Azure)</a>
+<a href="https://dev.azure.com/tec-bases-IS2021-KBJ/Proyecto%20II">![proyecto2](https://img.shields.io/badge/GymTEC-white?style=for-the-badge&logo=codeship)</a>
 
 ### Software specification and design course
-<a href="https://dev.azure.com/CRUD-Masters/XBattlePong">![xbattlepong](https://img.shields.io/badge/XBattlePong-black?logo=Azure)</a>
-
-
+<a href="https://dev.azure.com/CRUD-Masters/XBattlePong">![xbattlepong](https://img.shields.io/badge/XBattlePong-black?style=for-the-badge&logo=codeship)</a>
 
 
 -------------------
