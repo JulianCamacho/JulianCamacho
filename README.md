@@ -14,14 +14,6 @@ I love playing soccer, working out at the gym, playing video games, and hanging 
 
 <a href="https://www.linkedin.com/in/julian-camacho-h/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 
--------------------
-
-## Some other projects in Azure
-
-<a href="https://dev.azure.com/CRUD-Masters/">Databases course</a>
-
-<a href="https://dev.azure.com/tec-bases-IS2021-KBJ">Software specification and design course</a>
-
 
 -------------------
 
@@ -91,6 +83,24 @@ I love playing soccer, working out at the gym, playing video games, and hanging 
 ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter)
 ![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
+
+-------------------
+
+## Some other projects in Azure
+
+### Databases course
+<a href="https://dev.azure.com/tec-bases-IS2021-KBJ/Tarea%20Corta%201">![tarea](https://img.shields.io/badge/RestauranTEC-pink?logo=Azure)</a>
+
+<a href="https://dev.azure.com/tec-bases-IS2021-KBJ/Tarea%20Corta%201">![tarea](https://img.shields.io/badge/SmartHomeTEC-blue?logo=Azure)</a>
+
+<a href="https://dev.azure.com/tec-bases-IS2021-KBJ/Proyecto%20II">![proyecto2](https://img.shields.io/badge/GymTEC-white?logo=Azure)</a>
+
+### Software specification and design course
+<a href="https://dev.azure.com/CRUD-Masters/XBattlePong">![xbattlepong](https://img.shields.io/badge/XBattlePong-black?logo=Azure)</a>
+
+
+
 
 -------------------
 
