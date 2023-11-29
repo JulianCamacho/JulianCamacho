@@ -45,6 +45,7 @@ I love playing soccer, working out at the gym, playing video games, and hanging 
 
 ### Database engines
 
+![sqlserver](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -83,16 +84,24 @@ I love playing soccer, working out at the gym, playing video games, and hanging 
 ![SysVerilog](https://img.shields.io/badge/System_Verilog-gray?style=for-the-badge&logo=velog&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-darkblue?style=for-the-badge&logo=velog&logoColor=white)
 
+### AI & ML platforms
+
+![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![keras](https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikitlearn](https://img.shields.io/badge/Scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![jupyter](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter)
+![googlecolab](https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
 
 ### Others
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![octave](https://img.shields.io/badge/octave-0790C0?&style=for-the-badge&logo=octave&logoColor=white)
 ![openai](https://img.shields.io/badge/open_ai_api-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
-![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![jupyter](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter)
 ![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
 
 
 -------------------
