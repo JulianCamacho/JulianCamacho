@@ -6,7 +6,7 @@ I have also developed adaptability, communication, problem-solving, leadership a
 
 I love playing soccer, working out at the gym, playing video games, and hanging out with my friends. Additionally, I absolutely love pasta!
 
-<a href="https://aex.dev.azure.com/me?mkt=es-ES#">Some other projects in Azure</a>
+<a href="https://dev.azure.com/tec-bases-IS2021-KBJ/Proyecto%20I">Some other projects in Azure</a>
 
 ![follow](https://img.shields.io/github/followers/JulianCamacho.svg?style=social&label=Follow&maxAge=2592000)
 
