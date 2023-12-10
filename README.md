@@ -103,7 +103,7 @@ I love playing soccer, working out at the gym, playing video games, and hanging 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![octave](https://img.shields.io/badge/octave-0790C0?&style=for-the-badge&logo=octave&logoColor=white)
-![openai](https://img.shields.io/badge/open_ai_api-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![openai](https://img.shields.io/badge/open_ai-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 ![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
@@ -114,7 +114,7 @@ I love playing soccer, working out at the gym, playing video games, and hanging 
 
 ### Databases course
 <a href="https://dev.azure.com/tec-bases-IS2021-KBJ/Tarea%20Corta%201">![tarea](https://img.shields.io/badge/RestauranTEC-pink?style=for-the-badge&logo=codechef&logoColor=black)</a>
-<a href="https://dev.azure.com/tec-bases-IS2021-KBJ/Tarea%20Corta%201">![tarea](https://img.shields.io/badge/SmartHomeTEC-blue?style=for-the-badge&logo=kasasmart&logoColor=black)</a>
+<a href="https://dev.azure.com/tec-bases-IS2021-KBJ/Proyecto%20I">![tarea](https://img.shields.io/badge/SmartHomeTEC-blue?style=for-the-badge&logo=kasasmart&logoColor=black)</a>
 <a href="https://dev.azure.com/tec-bases-IS2021-KBJ/Proyecto%20II">![proyecto2](https://img.shields.io/badge/GymTEC-white?style=for-the-badge&logo=openaigym&logoColor=black)</a>
 
 ### Software specification and design course
