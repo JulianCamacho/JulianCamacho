@@ -1,8 +1,10 @@
 ## About me
 
-I'm a Computer Engineering student at <a href="https://www.tec.ac.cr/">TEC</a> (Costa Rica Institute of Technology). Through my career a have worked in several projects that involved learning multiple programming languages, algorithms and data structures, frameworks, database engines, HDLs, operating systems and other technologies and tools.
+I'm a Computer Engineering student at <a href="https://www.tec.ac.cr/">TEC</a> (Costa Rica Institute of Technology). I have immersed myself in diverse projects, gaining proficiency in numerous programming languages, data structures, frameworks, database engines and other cutting-edge technologies.
 
-I have also developed adaptability, communication, problem-solving, leadership and teamwork skills that have been very important to the success of the projects.
+Through these experiences, I have cultivated not only technical expertise but also developed crucial soft skills, including adaptability, effective communication, problem-solving, leadership, and teamwork. 
+
+My passion lies in applying my knowledge to real-world scenarios, and I am eager to contribute to innovative software projects as part of a collaborative team.
 
 I love playing soccer, working out at the gym, playing video games, and hanging out with my friends. Additionally, I absolutely love pasta!
 
@@ -13,7 +15,8 @@ I love playing soccer, working out at the gym, playing video games, and hanging 
 ## Contact
 
 <a href="https://www.linkedin.com/in/julian-camacho-h/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
-
+<a href="https://julian-camacho.netlify.app/">![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+</a> 
 
 -------------------
 
@@ -125,7 +128,7 @@ I love playing soccer, working out at the gym, playing video games, and hanging 
 
 ![JulianCamacho github stats](https://github-readme-stats.vercel.app/api?username=JulianCamacho&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![JulianCamacho github streak](https://github-readme-streak-stats.herokuapp.com/?user=JulianCamacho&theme=radical&include_all_commits=true&count_private=true)
+![JulianCamacho github streak](https://github-readme-streak-stats.herokuapp.com/?user=JulianCamacho&theme=radical&include_all_commits=true&count_private=true&width=50)
 
 ![JulianCamacho github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=astuaTEC&hide=scss,css,html&theme=radical&layout=compact)
 
